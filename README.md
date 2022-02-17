@@ -7,9 +7,7 @@ Here we try to estimate the depth from a pair of stereo images as follow :
 - computing the disparity between the 2 images 
 - computing the depth using the disparity and the translation matrices 
 
-Here is an example 2 screenshots I took during the simulation
+Here is an example - screenshots I took during the simulation
 
-
-<img src="depth.png">
 <img src="depth2.png">
 
